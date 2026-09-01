@@ -1,0 +1,16 @@
+{
+    "title":"student",
+    "description":"schema about students",
+    "type":"object",
+    "properties":{
+        "name":"string",           
+        "age":"integer",
+        "email":{
+            "type":"string",
+            "format":"email",
+            "description":"email of the student"
+        }
+    },
+    "required":["name","age"]
+
+}

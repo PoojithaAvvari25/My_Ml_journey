@@ -1,0 +1,5 @@
+"Japan is a beautiful island nation in Asia.",
+           "The country of Japan has many mountains.",
+           "Brazil is the largest country in South America.",
+           "Many people speak Portuguese in Brazil.",
+           "France attracts millions of international tourists every year."
