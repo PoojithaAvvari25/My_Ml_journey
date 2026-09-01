@@ -1,0 +1,6 @@
+__pycache__/
+Api_seperate/
+docker/
+laptop-price-predictor*/
+myenv/
+pydantic/
